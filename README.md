@@ -1,8 +1,8 @@
-![Captura de Tela (141)](https://github.com/mkatzor36/dioBootcampAI900_projeto1-Azure-ML/assets/54877987/e0b3e302-4ab4-4b8a-87a7-d32bf9b796c6)# Microsoft Azure AI Fundamentals
+# Microsoft Azure AI Fundamentals
 
 Bootcamp da DIO em parceria com a Microsoft, visando a preparação de profissionais para a certificação AI-900. 
 
-## Projeto 1: Aprendizado de Máquina
+# Projeto 1: Aprendizado de Máquina
 
 Neste primeiro desafio de projeto, o objetivo é criar um modelo de predição para aluguéis de bicicletas, utilizando a ferramenta de aprendizado de máquina automatizado do Azure Machine Learning.
 
@@ -19,6 +19,8 @@ Entre com as seguintes configurações e selecione "Review + Create".
 Ao concluir o 'deployment', clique em "Go to Resource". Depois, clique em "Launch Studio".
 ![Captura de Tela (136)](https://github.com/mkatzor36/dioBootcampAI900_projeto1-Azure-ML/assets/54877987/4bcca6cd-4c62-4c35-ad07-df6aab6296ab)
 ![Captura de Tela (137)](https://github.com/mkatzor36/dioBootcampAI900_projeto1-Azure-ML/assets/54877987/3eda8895-399e-45e5-bd2d-f0138c9e895d)
+
+### 2. Treinando o Modelo
 
 Ao abrir o ML Studio, selecione a opção "Automated ML", na barra de opções à esquerda. Em seguida, selecione "New Automated ML Job".
 ![Captura de Tela (138)](https://github.com/mkatzor36/dioBootcampAI900_projeto1-Azure-ML/assets/54877987/14321f4e-657b-4217-aa2d-a407970efbc2)
@@ -43,6 +45,8 @@ Em "Compute", selecione as seguintes opções:
 
 Com isso, clique em "Submit training job".
 ![Captura de Tela (158)](https://github.com/mkatzor36/dioBootcampAI900_projeto1-Azure-ML/assets/54877987/cca47d92-a7b4-4f2b-8843-3f8b3e4dc2f6)
+
+### 3. Revisão e Teste
 
 Espere o modelo ser computado, e seu status aparecer como "Completed". Tal tarefa leva de 10 a 15 minutos.
 ![Captura de Tela (160)](https://github.com/mkatzor36/dioBootcampAI900_projeto1-Azure-ML/assets/54877987/00be07ea-d4aa-4eab-9d6d-2cd36f613f99)
